@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/dev-nakasho/node-prj-test.git",
   "author": "dev-nakasho <shota9988@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  }
 }
