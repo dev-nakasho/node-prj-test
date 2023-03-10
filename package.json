@@ -1,0 +1,8 @@
+{
+  "name": "node-prj-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dev-nakasho/node-prj-test.git",
+  "author": "dev-nakasho <shota9988@gmail.com>",
+  "license": "MIT"
+}
